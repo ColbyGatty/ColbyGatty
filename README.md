@@ -17,7 +17,7 @@ Collaboration is at the heart of everything I do. I thrive in environments where
 Community drives me. I’m passionate about using my skills to give back, whether it’s through mentoring, contributing to open-source projects, or engaging in community service. I believe in creating an inclusive environment where everyone has the opportunity to succeed and grow.
 
 ## 🎓 Education & Experience
-- **Bachelor's in Computer Science** (In Progress) at Western Governors University (Graduation: April 2025)
+- **Bachelor's in Computer Science** (In Progress) at Western Governors University (Graduation: End of 2025)
 - **Associate of Arts in Graphic Design** from Modesto Junior College
 - **Internship Experience:** Data & Analytics at G3 Enterprises, Web Development at Digital Nest
 - **Past Projects:** AI chatbot development, full-stack web applications, data-driven analytics, and more.
