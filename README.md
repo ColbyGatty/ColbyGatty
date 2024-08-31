@@ -27,5 +27,6 @@ Throughout my career, I've tackled a range of complex projects that have honed m
 ## 📫 Let's Connect!
 - **LinkedIn:** [LinkedIn](www.linkedin.com/in/colbygatty)
 - **Portfolio:** [My Portfolio Website](https://colbygattycreates.com/)
+- **Resume:** [My Resume](https://colbygattycreates.com/wp-content/uploads/2024/08/ColbyGatty_resume.pdf)
 
 I'm always open to new opportunities and collaborations. Feel free to explore my work and reach out!
