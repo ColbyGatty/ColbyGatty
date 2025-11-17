@@ -22,7 +22,9 @@ Community drives me. I’m passionate about using my skills to give back, whethe
 - **Internship Experience:** Data & Analytics at G3 Enterprises, Web Development at Digital Nest
 - **Past Projects:** AI chatbot development, full-stack web applications, data-driven analytics, and more.
 
-Throughout my career, I've tackled a range of complex projects that have honed my technical and creative skills. From developing an AI chatbot in Java from scratch—complete with a convolutional neural network capable of learning and evolving, to enhancing data analytics at G3 Enterprises through intricate dashboards and data quality assessments, I've embraced challenges that push the boundaries of what I believed possible. I’ve also led front-end development for an internal software for Digital Nest called Career Harvest. In that role, I designed and implemented dynamic features using React, TypeScript, and Sass, ensuring seamless integration with the backend. Each project has fueled my passion for innovative problem-solving, and I am continually seeking new opportunities to broaden my skillset and take on even greater challenges.
+Throughout my career, I’ve taken on challenging, high-impact projects that have sharpened both my technical and creative abilities. I co-founded and built LiftReel, a full-stack competitive fitness app, where I led the end-to-end development of the mobile frontend and backend using Flutter, Firebase, and a fully custom data architecture. I’ve also engineered a convolutional neural network from scratch in Java, improved analytics capabilities at G3 Enterprises through advanced dashboards and data quality frameworks, and led front-end development for Digital Nest’s internal platform, Career Harvest, implementing dynamic, production-ready features in React, TypeScript, and Sass.
+
+Each of these projects has strengthened my passion for innovation and problem-solving, and I continue to seek opportunities that push my technical boundaries and enable me to build meaningful, impactful solutions.
 
 ## 📫 Let's Connect!
 - **LinkedIn:** [LinkedIn](www.linkedin.com/in/colbygatty)
